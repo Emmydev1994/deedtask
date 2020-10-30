@@ -1,0 +1,16 @@
+.App {
+  height: 100px;
+  width: 20%;
+  background-color: red;
+}
+
+.Field {
+  height: 100px;
+  width: 20%;
+  background-color: powderblue;
+}
+.Use {
+  height: 100px;
+  width: 20%;
+  background-color: blue;
+}
